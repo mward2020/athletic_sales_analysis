@@ -1,2 +1,2 @@
-# athletic_sales_analysis
+# Athletic_Sales_Analysis
 Repository for Module 5 Homework
